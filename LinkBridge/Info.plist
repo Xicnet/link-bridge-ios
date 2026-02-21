@@ -28,6 +28,8 @@
 	<array>
 		<string>armv7</string>
 	</array>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>LinkBridge needs local network access to serve WebSocket connections to browser clients on your network.</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>

@@ -53,4 +53,5 @@ The bridge sends `hello` on connect, periodic `state` at 20Hz, and event message
 
 Follow PLAN.md steps in order. Each step is one commit. Check PLAN.md to see which steps are done before starting work.
 
-- Step 1 — Empty iOS app + CI: **done** (commit pending push + CI verification)
+- Step 1 — Empty iOS app + CI: **done**
+- Step 2 — WebSocket server (no Link): **done** (commit pending push + CI verification)
